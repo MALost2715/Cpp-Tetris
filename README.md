@@ -1,6 +1,6 @@
 # Cpp-Tetris
 
-'''
+```
 /*******************************************************************************************
 *   raylib - classic game: tetris (C++ / colored blocks)
 *   Original by Marc Palau and Ramon Santamaria
@@ -314,4 +314,4 @@ int main()
 #endif
     CloseWindow();
 }
-'''
+```
